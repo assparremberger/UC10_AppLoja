@@ -43,7 +43,7 @@ public class FrmCidade extends javax.swing.JInternalFrame {
         carregarFormulario();
     }
     
-	/* Comentário */
+	/* Comentário novo */
 	
     private void carregarFormulario(){
         lblCodigoValor.setText( String.valueOf( cidade.getCodigo( )) );
